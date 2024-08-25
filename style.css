@@ -205,6 +205,7 @@ h2{
     height: 800px;
     margin-right: 30px;
     margin-left: 0px;
+    width:100%;
 }
 .more{
     display: flex;
