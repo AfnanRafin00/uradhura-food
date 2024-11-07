@@ -187,6 +187,8 @@ h2{
     
 } 
 #wings{
+    height: 100%;
+    width: 100%;
     display: flex;
     justify-content: flex-end;
     border: 5px solid hsla(0, 0%, 0%, 0.646);
