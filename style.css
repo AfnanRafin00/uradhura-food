@@ -202,11 +202,10 @@ h2{
 }
 
 .sell{
-    width: 1550px;
     border: none;
-    height: 800px;
     margin-right: 30px;
     margin-left: 0px;
+    width:100%;
 }
 .more{
     display: flex;
