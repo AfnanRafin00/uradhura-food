@@ -141,6 +141,7 @@ h2{
     align-items: flex-start;
     background-color: rgba(255, 255, 255, 0.423);
     margin-left: 11%;
+    size: 100%;
     
 }
 #Burger{
@@ -182,6 +183,7 @@ h2{
     background-color: rgba(255, 255, 255, 0.423);
     margin-top: 30px;
     margin-left: 11%;
+    size: 100%;
     
 } 
 #wings{
